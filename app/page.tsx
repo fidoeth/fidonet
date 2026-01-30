@@ -205,10 +205,10 @@ function AboutSection() {
       </h2>
 
       <div className="space-y-4 text-[var(--muted)] mb-16 transition-colors duration-300 lowercase">
-        <p>i try things people haven't and tell stories people remember.</p>
-        <p>every product has a narrative. i find the one that lands.</p>
-        <p>i've built from zero. raised capital. shipped fast. scaled audiences.</p>
+        <p>i build things people haven't and tell stories people remember.</p>
+        <p>every product has a beautiful narrative buried beneath layers of confusing tech.</p>
         <p>if it's complex, i make it make sense.</p>
+        <p>i've built from zero. raised capital. shipped fast. scaled audiences.</p>
       </div>
 
       <div className="h-px bg-[var(--border)] mb-12 transition-colors duration-300" />
